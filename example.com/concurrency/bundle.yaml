@@ -1,0 +1,50 @@
+about:
+    groups:
+    - group1
+    - group2
+    license: other-open
+    rights: null
+    subject: null
+    summary: !include 'meta/about.description.md'
+    tags:
+    - tag1
+    - tag2
+    title: Bundle title
+contact_bundle:
+    creator:
+        email: eric@sandiegodata.org
+        name: Eric Busboom
+        url: null
+    maintainer:
+        email: eric@sandiegodata.org
+        name: Eric Busboom
+        url: null
+contact_source:
+    creator:
+        email: null
+        name: null
+        url: https://civicknowledge.org
+    maintainer:
+        email: null
+        name: null
+        url: null
+identity:
+    bspace: null
+    btime: null
+    dataset: concurrency
+    id: d000001E
+    revision: 1
+    source: example.com
+    subset: null
+    type: null
+    variation: null
+    version: 0.0.1
+names:
+    fqname: example.com-concurrency-0.0.1~d000001E001
+    name: example.com-concurrency
+    vid: d000001E001
+    vname: example.com-concurrency-0.0.1
+versions:
+    1:
+        description: null
+        version: 0.0.1

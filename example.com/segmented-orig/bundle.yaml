@@ -1,0 +1,48 @@
+about:
+    groups:
+    - Examples
+    license: other-open
+    rights: null
+    subject: null
+    summary: !include 'meta/about.description.md'
+    tags:
+    - example
+    title: Simple Example Bundle
+contact_bundle:
+    creator:
+        email: null
+        name: Examplearium
+        url: null
+    maintainer:
+        email: null
+        name: Examplearium
+        url: null
+contact_source:
+    creator:
+        email: null
+        name: example
+        url: https://clarinova.com
+    maintainer:
+        email: null
+        name: null
+        url: null
+identity:
+    bspace: null
+    btime: null
+    dataset: segmented
+    id: d00G
+    revision: 1
+    source: example.com
+    subset: null
+    type: null
+    variation: orig
+    version: 0.1.1
+names:
+    fqname: example.com-segmented-orig-0.1.1~d00G001
+    name: example.com-segmented-orig
+    vid: d00G001
+    vname: example.com-segmented-orig-0.1.1
+versions:
+    1:
+        description: null
+        version: 0.1.1

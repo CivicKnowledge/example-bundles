@@ -1,0 +1,53 @@
+about:
+    groups:
+    - group1
+    - group2
+    license: other-open
+    rights: null
+    subject: null
+    summary: null
+    tags:
+    - tag1
+    - tag2
+    title: Bundle title
+contact_bundle:
+    creator:
+        email: null
+        name: null
+        url: null
+    maintainer:
+        email: null
+        name: null
+        url: null
+contact_source:
+    creator:
+        email: null
+        name: null
+        url: null
+    maintainer:
+        email: null
+        name: null
+        url: null
+identity:
+    bspace: null
+    btime: null
+    dataset: random
+    id: dHSyDm4MNR
+    revision: 2
+    source: example.com
+    subset: null
+    type: null
+    variation: null
+    version: 0.0.2
+names:
+    fqname: example.com-random-0.0.2~dHSyDm4MNR002
+    name: example.com-random
+    vid: dHSyDm4MNR002
+    vname: example.com-random-0.0.2
+versions:
+    1:
+        description: null
+        version: null
+    2:
+        description: null
+        version: 0.0.2

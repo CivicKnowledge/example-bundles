@@ -1,0 +1,54 @@
+about:
+    groups:
+    - Examples
+    license: other-open
+    rights: null
+    subject: null
+    summary: !include 'meta/about.description.md'
+    tags:
+    - example
+    title: Simple Example Bundle
+contact_bundle:
+    creator:
+        email: null
+        name: Examplearium
+        url: null
+    maintainer:
+        email: null
+        name: Examplearium
+        url: null
+contact_source:
+    creator:
+        email: null
+        name: example
+        url: https://clarinova.com
+    maintainer:
+        email: null
+        name: null
+        url: null
+identity:
+    bspace: null
+    btime: null
+    dataset: simple
+    id: d00H
+    revision: 3
+    source: example.com
+    subset: null
+    type: null
+    variation: orig
+    version: 0.1.3
+names:
+    fqname: example.com-simple-orig-0.1.3~d00H003
+    name: example.com-simple-orig
+    vid: d00H003
+    vname: example.com-simple-orig-0.1.3
+versions:
+    1:
+        description: null
+        version: null
+    2:
+        description: null
+        version: null
+    3:
+        description: null
+        version: 0.1.3
