@@ -26,7 +26,7 @@ class Bundle(BuildBundle):
             
         else:
             
-            for seg in range(1,100):
+            for seg in range(1,60):
 
                 self.build_segment(seg)
             
@@ -41,10 +41,12 @@ class Bundle(BuildBundle):
 
         p.clean()
 
-        lr = self.init_log_rate(1000)
+        n = 100
+
+        lr = self.init_log_rate(n-1)
 
         with p.database.inserter() as ins:
-            for i in range(5000):
+            for i in range(n):
                 row = {}
                 row['uuid'] = str(uuid.uuid4())
                 row['int'] = random.randint(0,100)
@@ -54,6 +56,9 @@ class Bundle(BuildBundle):
                 lr("seg={}".format(seg_no))
 
         p.close()
+
+        # To prevent running out of open files in MP mode
+        self.close()
 
         return True
     
