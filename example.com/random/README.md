@@ -1,5 +1,3 @@
+# Random Data
 
-# Bundle README
-
-This readme file should be written in [Markdown](http://daringfireball.net/projects/markdown/syntax),
-with text that explains to developers how to use the bundle, or lists particular issues or caveats. 
+This is a simple file of random data.

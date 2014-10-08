@@ -1,34 +1,29 @@
 about:
-    groups:
-    - group1
-    - group2
-    license: other-open
+    groups: []
+    license: null
     rights: null
     subject: null
-    summary: This bundle can run in multiprocessor mode, building many partitions
-        simultaneously.
-    tags:
-    - tag1
-    - tag2
-    title: A Test of Concurency
+    summary: This example uses two other bundles as dependencies and has a few sources
+    tags: []
+    title: An Example That Uses Other Bundles
 contact_bundle:
     creator:
         email: eric@sandiegodata.org
         name: Eric Busboom
-        url: http://sandiegodata.org
+        url: http://www.sandiegodata.org
     maintainer:
         email: eric@sandiegodata.org
         name: Eric Busboom
-        url: http://sandiegodata.org
+        url: http://www.sandiegodata.org
 contact_source:
     creator:
-        email: null
-        name: null
-        url: null
+        email: eric@sandiegodata.org
+        name: Eric Busboom
+        url: http://www.sandiegodata.org
     maintainer:
         email: eric@sandiegodata.org
         name: Eric Busboom
-        url: http://sandiegodata.org
+        url: http://www.sandiegodata.org
 external_documentation:
     main:
         description: The Main Website for the example
@@ -38,8 +33,8 @@ external_documentation:
 identity:
     bspace: null
     btime: null
-    dataset: concurrency
-    id: d000001E
+    dataset: combined
+    id: dIjqPRbrGq
     revision: 1
     source: example.com
     subset: null
@@ -47,10 +42,10 @@ identity:
     variation: null
     version: 0.0.1
 names:
-    fqname: example.com-concurrency-0.0.1~d000001E001
-    name: example.com-concurrency
-    vid: d000001E001
-    vname: example.com-concurrency-0.0.1
+    fqname: example.com-combined-0.0.1~dIjqPRbrGq001
+    name: example.com-combined
+    vid: dIjqPRbrGq001
+    vname: example.com-combined-0.0.1
 process: {}
 versions:
     1:
