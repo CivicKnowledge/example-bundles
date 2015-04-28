@@ -1,12 +1,16 @@
 about:
+    access: public
+    grain: null
     groups:
     - Examples
-    license: other-open
-    rights: null
+    license: public
+    rights: public
+    space: US
     subject: null
     summary: A bundle with four segments
     tags:
     - example
+    time: null
     title: A Segmented Bundle
 contact_bundle:
     creator:
@@ -51,5 +55,6 @@ names:
 process: {}
 versions:
     1:
+        date: null
         description: null
         version: 0.1.1

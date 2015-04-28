@@ -1,10 +1,14 @@
 about:
+    access: public
+    grain: null
     groups: []
-    license: null
-    rights: null
+    license: public
+    rights: public
+    space: US
     subject: null
     summary: null
     tags: []
+    time: null
     title: null
 contact_bundle:
     creator:
@@ -40,7 +44,9 @@ names:
     name: example.com-altdb-orig
     vid: d00F001
     vname: example.com-altdb-orig-0.1.1
+process: {}
 versions:
     1:
+        date: null
         description: null
         version: 0.1.1
