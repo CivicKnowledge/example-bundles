@@ -1,12 +1,12 @@
 about:
-    access: public
+    access: null
     grain: null
     groups:
     - group1
     - group2
-    license: public
-    rights: public
-    space: US
+    license: other-open
+    rights: null
+    space: null
     subject: null
     summary: This is a simple file of random data.
     tags:
