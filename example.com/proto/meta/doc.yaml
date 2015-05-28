@@ -1,13 +1,18 @@
 documentation:
+    footnote: null
     main: '
 
         # A Bundle that just provides prototype columns for other bundles.
 
 
-        None
+        A Bundle that just provides prototype columns for other bundles.
 
         '
+    processed: ''
     readme: '# A Bundle that just provides prototype columns for other bundles.
 
 
         None'
+    source: ''
+    summary: A Bundle that just provides prototype columns for other bundles.
+    title: A Bundle that just provides prototype columns for other bundles.

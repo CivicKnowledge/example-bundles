@@ -1,9 +1,12 @@
 about:
     access: example
+    footnote: null
     grain: null
     groups: []
     license: null
+    processed: null
     rights: null
+    source: null
     space: null
     subject: null
     summary: A Bundle that just provides prototype columns for other bundles.
@@ -23,7 +26,8 @@ contact_source:
     creator:
         email: null
         name: null
-        url: null
+        org: Example Com
+        url: http://example.com
     maintainer:
         email: null
         name: null
