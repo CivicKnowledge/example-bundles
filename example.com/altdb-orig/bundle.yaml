@@ -1,15 +1,18 @@
 about:
-    access: public
+    access: example
+    footnote: null
     grain: null
     groups: []
     license: public
+    processed: null
     rights: public
+    source: null
     space: US
     subject: null
-    summary: null
+    summary: Alternate databases
     tags: []
     time: null
-    title: null
+    title: Alternate databases
 contact_bundle:
     creator:
         email: null
@@ -23,7 +26,8 @@ contact_source:
     creator:
         email: null
         name: null
-        url: null
+        org: Example Com
+        url: http://example.com
     maintainer:
         email: null
         name: null

@@ -19,5 +19,5 @@ links,1,id,1,,tfY0NJscai04,INTEGER,,Links to Other tables
 links,2,example2_id,,tfY0NJscai02,cfY0NJscai04002,INTEGER,4,
 links,3,example3_id,,tfY0NJscai03,cfY0NJscai04003,INTEGER,4,
 ,,,,,,,,
-example4,1,id,,,cfY0NJscai05001,INTEGER,,
+example4,1,id,,,cfY0NJscai05001,INTEGER,,Example 4
 example4,2,int_5,,,cfY0NJscai05002,INTEGER,,Five times the int

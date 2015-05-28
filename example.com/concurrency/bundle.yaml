@@ -1,5 +1,5 @@
 about:
-    access: null
+    access: example
     grain: null
     groups:
     - group1

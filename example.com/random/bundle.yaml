@@ -1,13 +1,16 @@
 about:
-    access: null
+    access: example
+    footnote: null
     grain: null
     groups:
     - group1
     - group2
     license: other-open
+    processed: null
     rights: null
+    source: null
     space: null
-    subject: null
+    subject: This is a simple file of random data.
     summary: This is a simple file of random data.
     tags:
     - tag1
@@ -27,7 +30,8 @@ contact_source:
     creator:
         email: null
         name: null
-        url: null
+        org: Example Com
+        url: http://example.com
     maintainer:
         email: null
         name: null
