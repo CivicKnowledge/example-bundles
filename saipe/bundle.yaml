@@ -1,0 +1,67 @@
+about:
+    access: example
+    footnote: null
+    grain: null
+    groups: []
+    license: null
+    processed: null
+    rights: null
+    source: null
+    space: US
+    subject: null
+    summary: This is an example bundle for the Model-based Small Area Income & Poverty Estimates (SAIPE) for School
+        Districts, Counties, and States. It should not be used in production.
+    tags: []
+    time: null
+    title: Demonstration of Small Area Income and Poverty Estimates
+contact_bundle:
+    creator:
+        email: eric@civicknowledge.com
+        name: Eric Busboom
+        org: Civic Knowledge
+        url: http://civicknowledge.com
+    maintainer: {}
+contact_source:
+    creator:
+        org: United States Census Bureau
+        url: http://census.gov
+    maintainer: {}
+external_documentation:
+    dataset:
+        description: Main webpage for the dataset.
+        source: null
+        title: Dataset Page
+        url: http://www.census.gov/did/www/saipe/
+    documentation:
+        description: Links to documents detailing the estimation process and how to
+            may comparisons
+        source: null
+        title: SAIPE Methodology
+        url: http://www.census.gov/did/www/saipe/methods/index.html
+    download:
+        description: Web page that links to the source files.
+        source: null
+        title: Download Page
+        url: http://www.census.gov/did/www/saipe/data/statecounty/data/index.html
+identity:
+    bspace: null
+    btime: null
+    dataset: saipe
+    id: d046
+    revision: 2
+    source: census.gov
+    subset: county
+    type: null
+    variation: null
+    version: 0.0.2
+names:
+    fqname: census.gov-saipe-county-0.0.2~d046002
+    name: census.gov-saipe-county
+    vid: d046002
+    vname: census.gov-saipe-county-0.0.2
+process: {}
+versions:
+    2:
+        date: '2015-06-04T20:02:12.858727'
+        description: Under 18 col incorrectly mapped to 5_17
+        version: 0.0.2
