@@ -42,7 +42,7 @@ identity:
     source: ers.usda.gov
     subset: null
     type: null
-    variation: null
+    variation: demo
     version: 0.0.1
 names:
     fqname: ers.usda.gov-agg_product-0.0.1~d0elTsAucL001

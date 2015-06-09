@@ -132,6 +132,31 @@ sources:
             - 5
             - 6
         url: http://www.ers.usda.gov/datafiles/Agricultural_Productivity_in_the_US/National_Tables/table01.xls
+    farm_output_prices:
+        comment: null
+        conversion: null
+        dd_url: null
+        description: Indices of farm output, input, and total factor productivity
+            for the United States, 1948-2011. Includes price indices and implicit
+            quantities of farm outputs and inputs (see second tab in workbook), Table1a.
+        file: null
+        filetype: null
+        foreign_key: null
+        is_loadable: null
+        row_data: null
+        row_spec:
+            data_end_line: 71
+            data_start_line: 7
+            header_comment_lines:
+            - 0
+            - 1
+            - 2
+            - 3
+            header_lines:
+            - 5
+            - 6
+        segment: 3
+        url: http://www.ers.usda.gov/datafiles/Agricultural_Productivity_in_the_US/National_Tables/table01.xls
     fertilizer_consumption:
         comment: null
         conversion: null
