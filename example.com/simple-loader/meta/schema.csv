@@ -1,5 +1,5 @@
 table,seq,column,is_pk,is_fk,id,type,size,description
-example,1,id,1,,t8TXOw9pl701,INTEGER,,Random CSV data
+example,1,id,1,,t8TXOw9pl701,INTEGER,5,Random CSV data
 example,3,uuid,,,c8TXOw9pl701003,VARCHAR,36,uuid
-example,4,int,,,c8TXOw9pl701004,INTEGER,,int
+example,4,int,,,c8TXOw9pl701004,INTEGER,3,int
 example,5,float,,,c8TXOw9pl701005,REAL,,float
