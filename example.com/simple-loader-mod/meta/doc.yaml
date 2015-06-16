@@ -1,0 +1,11 @@
+documentation:
+    footnote: null
+    main: '
+
+        '
+    processed: ''
+    readme: null
+    source: ''
+    summary: A simple example of using a loader bundle with methods for altering the
+        data pipeline
+    title: Simple Loader Example, With Modifications

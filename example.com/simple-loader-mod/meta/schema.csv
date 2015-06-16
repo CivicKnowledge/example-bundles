@@ -1,0 +1,5 @@
+table,seq,column,is_pk,is_fk,id,type,size,description,d_caster
+example,1,id,1,,t969060M7H01,INTEGER,5,Simple Random CSV data,
+example,3,uuid,,,c969060M7H01003,VARCHAR,36,foo,
+example,4,int,,,c969060M7H01004,INTEGER,6,bar,int_caster
+example,5,float,,,c969060M7H01005,REAL,,baz,real_caster

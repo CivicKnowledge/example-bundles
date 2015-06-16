@@ -1,0 +1,13 @@
+documentation:
+    main: '
+
+        # A Third Level Bundle
+
+
+        This bundle depends on a bundle that has dependencies.
+
+        '
+    readme: '# A Third Level Bundle
+
+
+        This bundle depends on a bundle that has dependencies.'

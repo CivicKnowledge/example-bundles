@@ -1,0 +1,56 @@
+about:
+    access: example
+    footnote: null
+    grain: null
+    groups: []
+    license: public
+    processed: null
+    rights: public
+    source: null
+    space: US
+    subject: null
+    summary: Alternate databases
+    tags: []
+    time: null
+    title: Alternate databases
+contact_bundle:
+    creator:
+        email: null
+        name: null
+        url: null
+    maintainer:
+        email: null
+        name: null
+        url: null
+contact_source:
+    creator:
+        email: null
+        name: null
+        org: Example Com
+        url: http://example.com
+    maintainer:
+        email: null
+        name: null
+        url: null
+identity:
+    bspace: null
+    btime: null
+    dataset: altdb
+    id: d00F
+    revision: 1
+    source: example.com
+    subset: null
+    type: null
+    variation: orig
+    version: 0.1.1
+names:
+    fqname: example.com-altdb-orig-0.1.1~d00F001
+    name: example.com-altdb-orig
+    vid: d00F001
+    vname: example.com-altdb-orig-0.1.1
+process: {}
+versions:
+    1:
+        date: null
+        description: null
+        version: 0.1.1

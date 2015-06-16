@@ -1,0 +1,5 @@
+table,seq,column,is_pk,is_fk,id,type,size,description
+example,1,id,1,,tfY0NJqcai01,INTEGER,,A Pretty Good Table
+example,2,uuid,,,cfY0NJqcai01002,VARCHAR,36,A random UUID
+example,3,int,,,cfY0NJqcai01003,INTEGER,3,A random integer
+example,4,float,,,cfY0NJqcai01004,REAL,,A random float

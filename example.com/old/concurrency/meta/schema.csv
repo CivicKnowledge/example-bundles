@@ -1,0 +1,5 @@
+table,seq,column,is_pk,is_fk,id,type,size,description
+rand,1,id,1,,t000001E01,INTEGER,,Randomness
+rand,2,uuid,,,c000001E01002,VARCHAR,36,A random UUID
+rand,3,int,,,c000001E01003,INTEGER,3,A random integer
+rand,4,float,,,c000001E01004,REAL,,
