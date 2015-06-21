@@ -1,0 +1,19 @@
+documentation:
+    footnote: null
+    main: '# {about.title}
+
+
+        ## Caveats
+
+
+        There are several files in the source ZIP file that are not processed. The
+        HHC_SOCRATA_HHCAHPS_NATIONAL.csv and HHC_SOCRATA_NATIONAL.csv files have only
+        one data line. '
+    processed: ''
+    readme: null
+    source: ''
+    summary: These are the official datasets used on the Medicare.gov Home Health
+        Compare Website provided by the Centers for Medicare  Medicaid Services.  These
+        data allow you to compare the quality of care provided by Medicare-certified
+        home health agencies throughout the nation.
+    title: Hospital Compare Data

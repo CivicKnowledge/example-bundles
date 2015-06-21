@@ -1,0 +1,12 @@
+-   name: medicare.gov-compare-home_health-hhcahps_prvdr
+    table: hhcahps_prvdr
+-   name: medicare.gov-compare-home_health-zip
+    table: zip
+-   name: medicare.gov-compare-home_health-prvdr
+    table: prvdr
+-   name: medicare.gov-compare-home_health-hhcahps_state
+    table: hhcahps_state
+-   name: medicare.gov-compare-home_health-state
+    table: state
+-   name: medicare.gov-compare-home_health-casper_aspen_contacts
+    table: casper_aspen_contacts

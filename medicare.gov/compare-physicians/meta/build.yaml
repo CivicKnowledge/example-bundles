@@ -1,0 +1,19 @@
+build:
+    requirements: {}
+dependencies: {}
+sources:
+    national:
+        description: National downloadable file
+        encoding: latin-1
+        file: National_Downloadable_File
+        filetype: csv
+        url: https://data.medicare.gov/views/bg9k-emty/files/mCHhGYGNCpKUrsgtlt7YLwUxGS-LYOYkJBzBM7uzKlM?filename=Physician_Compare_Databases.zip&content_type=application%2Fzip%3B%20charset%3Dbinary
+        urlfiletype: zip
+    pubreport:
+        description: 2013 Group practice public reporting
+        encoding: latin-1
+        file: National_Downloadable_File
+        filetype: csv
+        url: hhttps://data.medicare.gov/views/bg9k-emty/files/mCHhGYGNCpKUrsgtlt7YLwUxGS-LYOYkJBzBM7uzKlM?filename=Physician_Compare_Databases.zip&content_type=application%2Fzip%3B%20charset%3Dbinary
+        urlfiletype: zip
+views: {}

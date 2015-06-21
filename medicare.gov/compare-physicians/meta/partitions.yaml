@@ -1,0 +1,4 @@
+-   name: medicare.gov-compare-physicians-national
+    table: national
+-   name: medicare.gov-compare-physicians-pubreport
+    table: pubreport

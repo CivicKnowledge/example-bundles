@@ -1,0 +1,64 @@
+about:
+    access: example
+    footnote: null
+    grain: facility
+    groups: []
+    license: public
+    processed: null
+    rights: public
+    source: null
+    space: US
+    subject: null
+    summary: These are the official datasets used on the Medicare.gov Home Health
+        Compare Website provided by the Centers for Medicare & Medicaid Services.  These
+        data allow you to compare the quality of care provided by Medicare-certified
+        home health agencies throughout the nation.
+    tags: []
+    time: 2015
+    title: Hospital Compare Data
+contact_bundle:
+    creator:
+        email: eric@civicknowledge.com
+        name: Eric Busboom
+        org: Civic Knowledge
+        url: http://civicknowledge.com
+    maintainer: {}
+contact_source:
+    creator:
+        org: Medicare
+        url: http://medicare.gov
+    maintainer: {}
+external_documentation:
+    dataset:
+        description: Main webpage for the dataset.
+        source: null
+        title: Official Physician Compare Data
+        url: https://data.medicare.gov/data/physician-compare
+    national_doc:
+        description: Data dictionary for the national downloadable file
+        source: null
+        title: National Data Dictionary
+        url: https://data.medicare.gov/views/bg9k-emty/files/h7l0QrAdAmn9kPZ_wabQDjD9Ph-j0rWwR_ewuVlTJd8?filename=Physician_Compare_Downloadable_Database_Dictionary.pdf&content_type=application%2Fpdf%3B%20charset%3Dbinary
+    pubreport_doc:
+        description: Data dictionary for the 2013 group practice public reporting
+            file
+        source: null
+        title: Public Reporting Data Dictionary
+        url: https://data.medicare.gov/views/bg9k-emty/files/h7l0QrAdAmn9kPZ_wabQDjD9Ph-j0rWwR_ewuVlTJd8?filename=Physician_Compare_Downloadable_Database_Dictionary.pdf&content_type=application%2Fpdf%3B%20charset%3Dbinary
+identity:
+    bspace: null
+    btime: null
+    dataset: compare
+    id: d048
+    revision: 1
+    source: medicare.gov
+    subset: physicians
+    type: null
+    variation: null
+    version: 0.0.1
+names:
+    fqname: medicare.gov-compare-physicians-0.0.1~d048001
+    name: medicare.gov-compare-physicians
+    vid: d048001
+    vname: medicare.gov-compare-physicians-0.0.1
+process: {}

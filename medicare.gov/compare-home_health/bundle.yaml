@@ -1,0 +1,58 @@
+about:
+    access: example
+    footnote: null
+    grain: facility
+    groups: []
+    license: public
+    processed: null
+    rights: public
+    source: null
+    space: US
+    subject: null
+    summary: These are the official datasets used on the Medicare.gov Home Health
+        Compare Website provided by the Centers for Medicare & Medicaid Services.  These
+        data allow you to compare the quality of care provided by Medicare-certified
+        home health agencies throughout the nation.
+    tags: []
+    time: 2015
+    title: Hospital Compare Data
+contact_bundle:
+    creator:
+        email: gudinya@gmail.com
+        name: Viacheslav Kononov
+        org: ''
+        url: ''
+    maintainer: {}
+contact_source:
+    creator:
+        org: The Centers for Medicare & Medicaid Services
+        url: http://medicare.gov
+    maintainer: {}
+external_documentation:
+    dataset:
+        description: Main webpage for the dataset.
+        source: null
+        title: Dataset Page
+        url: http://data.medicare.gov/data/home-health-compare
+    download:
+        description: Web page that links to the source files.
+        source: null
+        title: Download Page
+        url: https://data.medicare.gov/data/home-health-compare
+identity:
+    bspace: null
+    btime: null
+    dataset: compare
+    id: d049
+    revision: 1
+    source: medicare.gov
+    subset: home_health
+    type: null
+    variation: null
+    version: 0.0.1
+names:
+    fqname: medicare.gov-compare-home_health-0.0.1~d049001
+    name: medicare.gov-compare-home_health
+    vid: d049001
+    vname: medicare.gov-compare-home_health-0.0.1
+process: {}
